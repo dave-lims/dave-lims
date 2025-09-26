@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🐸  Open for Work! Currently looking for a Junior / Early Career Web Developer position<br>🖥️  See my portfolio at <a href="https://dave-lims.github.io" target="_blank">dave-lims.github.io</a> (work in progress, site may be down)<br>✉️ You can contact me at <a href="mailto:david.lim@berkeley.edu">david.lim@berkeley.edu</a></p>
+<p align="left">🐸  Open for Work! Currently looking for a Junior / Early Career Product Designer and Product Engineer roles.<br>🖥️  See my portfolio at <a href="https://dave-lims.github.io" target="_blank">dave-lims.github.io</a> (work in progress, updated last in early 2025)<br>✉️ You can contact me at <a href="mailto:david.lim@berkeley.edu">david.lim@berkeley.edu</a></p>
 
 ###
 
